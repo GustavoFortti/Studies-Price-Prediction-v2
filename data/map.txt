@@ -1,0 +1,1 @@
+tempo | abertura| max | min | fechamento | volume
